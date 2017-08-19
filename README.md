@@ -1,7 +1,7 @@
 SimpleFlickrClient
 ========
 
-# The Simple Flickr Client for Android designed by Ahmed Elhelow
+The Simple Flickr Client for Android designed by Ahmed Elhelow
 
 This is a sample app provided to Inmobly company as an Android challenge as a part of recruiting process. 
 
